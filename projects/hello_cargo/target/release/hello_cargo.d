@@ -1,0 +1,1 @@
+C:\Users\water\OneDrive\Documents\Programming\rust\rust_tutorials\projects\hello_cargo\target\release\hello_cargo.exe: C:\Users\water\OneDrive\Documents\Programming\rust\rust_tutorials\projects\hello_cargo\src\main.rs
